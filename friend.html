@@ -114,7 +114,7 @@
 <body>
   <div class="friendship-page" style="position: relative; overflow: hidden; height: 100vh;">
     
-    </script>
+    
     <h1>Celebrate Friendship!</h1>
     <p>
       True friendship is a priceless gift that lasts a lifetime. Celebrate the bond with your best friend and
